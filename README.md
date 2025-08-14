@@ -13,7 +13,7 @@
 
 ---
 
-## Чем пользовались
+## Чем пользовался
 - **Python:** `polars`, `pandas`, `numpy`, `matplotlib`  
 - **ML:** `catboost`, `scikit-learn`
 
